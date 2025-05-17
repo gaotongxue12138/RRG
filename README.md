@@ -1,5 +1,9 @@
 # README  
   
+
+## Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation 
+https://arxiv.org/pdf/2409.15895
+
 ## Project Overview  
   
 This repository hosts the code for our project, which is primarily composed of two components: the **Retriever** and the **Generator**.  
